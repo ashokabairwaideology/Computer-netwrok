@@ -94,3 +94,13 @@ Disadvantages of computer networks are as follow
     Required handler (you can hire a person to handle your computer network and it is expensive)
     High-speed internet
     Server
+
+
+![allinpython com-ExplainIPaddressanditsclassesindetail–allinpython com](https://github.com/user-attachments/assets/acb82809-7ad9-4598-bc19-28fdc7e2df5d)
+
+![allinpython com-ComputerNetworktopologyanditstypes–allinpython com](https://github.com/user-attachments/assets/cfa347c9-f6ab-4be5-8fb5-ed5d572d449c)
+
+![allinpython com-WhatisOSImodelindetailwithits7layers–allinpython com](https://github.com/user-attachments/assets/ed34648b-d42f-4463-b0c0-b6a47f465948)
+
+
+    
